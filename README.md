@@ -69,5 +69,25 @@ node .\tools\verify_gtw.mjs
 
 ---
 
+## 🛠️ More Production Tools, B2B Microservices & Indie Games by Michael Brunet
+
+If you enjoyed this open-source 1983 vector simulator, check out my production developer tools, FastAPI microservices, and games:
+
+### 🕵️ Career & Anti-Ghost-Job Browser Extension
+- **[Stealth Job Fit & Ghost-Job Forensics Extension (Indeed & LinkedIn) — \$29](https://brunetmike.gumroad.com/l/uckkb)**
+  Manifest V3 Chrome/Edge extension that injects real-time **Ghost-Job Forensics (`0–100%` Ghost Risk)** and **Skill-Fit badges** directly onto live **Indeed.com** and **LinkedIn.com** job cards, with anti-detect fingerprint protection (`fingerprint.js`).
+
+### ⚡ Production Python / FastAPI B2B Microservice Templates (2026 Models Verified)
+- **[Coding Knowledge Hybrid RAG Library Premium (`FAISS` + `gemini-2.5-flash` / `gpt-4.1-mini` / `qwen3-coder-30b`) — \$49](https://brunetmike.gumroad.com/l/rzuiln)**
+- **[Cross-Domain Sentiment & Source Credibility Engine API — \$69](https://brunetmike.gumroad.com/l/ugtvbv)**
+- **[Contact Enrichment & Multi-Source Skip-Tracing API — \$59](https://brunetmike.gumroad.com/l/qezac)**
+- **[Real Estate Motivated-Seller Lead Generator API — \$49](https://brunetmike.gumroad.com/l/uaewfq)**
+- **[Academic Papers Multi-Source Aggregator API (arXiv, PubMed, Crossref) — \$39](https://brunetmike.gumroad.com/l/qjdudp)**
+- **[E-Commerce Multi-Retailer Price Monitor API Template — \$29](https://brunetmike.gumroad.com/l/wcsjlz)**
+
+👉 **Browse the Full Developer Storefront:** **[https://brunetmike.gumroad.com](https://brunetmike.gumroad.com)** | **[Itch.io Indie Studio](https://michaelbrunet-bit.itch.io)**
+
+---
+
 ## License
 Released under the **MIT License** — free to download, play, fork, and study.
