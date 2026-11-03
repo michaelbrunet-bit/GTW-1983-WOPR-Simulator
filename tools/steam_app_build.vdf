@@ -1,0 +1,23 @@
+"AppBuild"
+{
+	"AppID" "2981983"
+	"Desc" "W.O.P.R. // Global Thermonuclear War (NORAD 1983) - Windows x64 Desktop Build"
+	"BuildOutput" "..\dist\steam_build_output"
+	"ContentRoot" "..\dist\GTW_WOPR_Win64"
+	"SetLive" "default"
+	"Preview" "0"
+	"Local" ""
+	"Depots"
+	{
+		"2981984"
+		{
+			"FileMapping"
+			{
+				"LocalPath" "*"
+				"DepotPath" "."
+				"recursive" "1"
+			}
+			"FileExclusion" "*.pdb"
+		}
+	}
+}

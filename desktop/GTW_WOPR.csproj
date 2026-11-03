@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>GTW_WOPR</AssemblyName>
+    <Product>W.O.P.R. // Global Thermonuclear War (NORAD 1983)</Product>
+    <Company>NORAD Strategic Command / ProtoVision 1983</Company>
+    <Version>1.9.83</Version>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.2903.40" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\index.html" CopyToOutputDirectory="PreserveNewest" Link="wwwroot\index.html" />
+    <None Include="..\style.css" CopyToOutputDirectory="PreserveNewest" Link="wwwroot\style.css" />
+    <None Include="..\game.js" CopyToOutputDirectory="PreserveNewest" Link="wwwroot\game.js" />
+  </ItemGroup>
+</Project>
