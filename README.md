@@ -85,7 +85,13 @@ If you enjoyed this open-source 1983 vector simulator, check out my production d
 - **[Academic Papers Multi-Source Aggregator API (arXiv, PubMed, Crossref) — \$39](https://brunetmike.gumroad.com/l/qjdudp)**
 - **[E-Commerce Multi-Retailer Price Monitor API Template — \$29](https://brunetmike.gumroad.com/l/wcsjlz)**
 
-👉 **Browse the Full Developer Storefront:** **[https://brunetmike.gumroad.com](https://brunetmike.gumroad.com)** | **[Itch.io Indie Studio](https://michaelbrunet-bit.itch.io)**
+👉 **Browse the Full Developer Storefront & Projects:**
+- **[Main Studio & Storefront (`michaelbrunet-bit.github.io`)](https://michaelbrunet-bit.github.io/)**
+- **[Play 1983 W.O.P.R. Simulator Live](https://michaelbrunet-bit.github.io/GTW-1983-WOPR-Simulator/)**
+- **[Play Arcana Tactics Tarot RPG Live](https://michaelbrunet-bit.github.io/arcana-tactics/)**
+- **[Books & Survival Field Codex (*After Zero*, *Chronicles of Mike*, *Kronos* & Kids SEL)](https://michaelbrunet-bit.github.io/books/)**
+- **[Python/FastAPI & Hybrid RAG Templates (Gumroad)](https://brunetmike.gumroad.com)**
+- **[18 Live Cloud Data Extractors (Apify)](https://apify.com/dagnabit)**
 
 ---
 
